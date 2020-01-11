@@ -188,6 +188,7 @@ DEPENDENCIES
   pry-byebug
   pry-rails
   puma
+  rack
   rails (= 5.2.4.1)
   redis
   sassc-rails
